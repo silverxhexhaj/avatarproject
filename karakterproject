@@ -1,0 +1,17 @@
+database Name: karakterproject
+
+table1: tabela e personazhet
+-ID
+-Emer
+-Personaliteti
+-Imazhe
+
+table2: tabela e pyetjeve
+-ID(te personazhit)
+-Numri i pyetjes
+-Teksti i pytjes
+
+table3: tabela e pergjigjeve
+-filtri i moshes
+-data te serializume
+
